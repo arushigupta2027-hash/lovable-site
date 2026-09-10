@@ -1,0 +1,6 @@
+{
+  "name": "BrainDump",
+  "description": "AI-powered Instagram photo-dump carousel maker that effortlessly turns photos and vibe descriptions into aesthetic, multi-slide visual compositions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
